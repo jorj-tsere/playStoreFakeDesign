@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--default colours-->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+<!-- content colours -->
+    <color name="mainBackgorundColor">#fafafa</color>
+    <color name="darkerText">#212121</color>
+    <color name="mainGreenColor">#689f38</color>
+    <color name="lightGray">#8d8d8d</color>
+    <color name="mainGray">#eee</color>
+    <color name="greenLayoutColour">#c5e1a5</color>
+
+    <!-- rating colours-->
+    <color name="fiveStarColour">#88b131</color>
+    <color name="fourStarColour">#99cc00</color>
+    <color name="threeStarColour">#ffcf02</color>
+    <color name="twoStarColour">#ff9f02</color>
+    <color name="oneStarColour">#ff6f31</color>
+
+    <color name="roundedImageBorderColor">#e0e0e0</color>
+</resources>

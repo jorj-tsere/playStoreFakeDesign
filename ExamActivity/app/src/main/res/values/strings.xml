@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="action_settings">Settings</string>
+
+    <string name="maps">Maps</string>
+    <string name="google_inc">Google Inc.</string>
+    <string name="plus3">3+</string>
+    <string name="uninstall">uninstall</string>
+    <string name="open">open</string>
+    <string name="fourPointThree">4.3</string>
+    <string name="one">1</string>
+    <string name="downloads">Downloads</string>
+    <string name="reviewCount">5,493,032</string>
+    <string name="TravelAndLocal">Travel &amp; Local</string>
+    <string name="Similar">Similar</string>
+    <string name="GetTheLatestGoogleMapsApp">Get The Latest Google Maps App</string>
+    <string name="whatsNew">WHAT\'S NEW </string>
+    <string name="longDescription">Easily find hours and phone numbers for large deparment stores with the new department store directory in Google Maps (US only)</string>
+    <string name="readMore">READ MORE</string>
+    <string name="appAuthor">Giorgi Bochorishvili</string>
+    <string name="rateApp">Rate this app</string>
+    <string name="italicText">Reviews are linked to your account and are public</string>
+    <string name="showMainRating">3.5</string>
+    <string name="reviewHighlights">Review Highlights</string>
+
+</resources>
